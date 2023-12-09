@@ -51,3 +51,9 @@ class:
   names:
     en: class
     ja: 作品メタ
+
+realperson:
+  theme: #262626
+  names:
+    en: real person
+    ja: 実在人物
