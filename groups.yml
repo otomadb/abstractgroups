@@ -1,0 +1,53 @@
+copyright:
+  theme: #f43f5e
+  names:
+    en: copyright
+    ja: 作品
+
+music:
+  theme: #0ea5e9
+  names:
+    en: music
+    ja: 曲
+
+character:
+  theme: #34d399
+  names:
+    en: character
+    ja: キャラクター
+
+event:
+  theme: #34d399
+  names:
+    en: event
+    ja: イベント
+
+series:
+  theme: #c2410c
+  names:
+    en: series
+    ja: シリーズ
+
+tactics:
+  theme: #a8a29e
+  names:
+    en: tactics
+    ja: 戦術
+
+phrase:
+  theme: #fbbf24
+  names:
+    en: phrase
+    ja: セリフ
+
+style:
+  theme: #94a3b8
+  names:
+    en: style
+    ja: 作風
+
+class:
+  theme: #94a3b8
+  names:
+    en: class
+    ja: 作品メタ
