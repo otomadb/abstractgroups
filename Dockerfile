@@ -23,8 +23,10 @@ FROM node:20.10.0-slim@sha256:363a50faa3a561618775c1bab18dae9b4d0910a28f249bf8b7
 WORKDIR /app
 ENV NODE_ENV production
 
+# Install OpenSSL
+# hadolint ignore=DL3008
 RUN apt-get update \
-  && apt-get install -y --no-install-recommends openssl=3.0.11-1~deb12u1 \
+  && apt-get install -y --no-install-recommends openssl \
   && apt-get clean \
   && rm -rf /var/lib/apt/lists/*
 
