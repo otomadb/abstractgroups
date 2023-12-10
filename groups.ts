@@ -1,7 +1,4 @@
-export const groups: Record<
-  string,
-  { names: Partial<Record<"en" | "ja", string>> }
-> = {
+export const groups: Record<string, { names: Partial<Record<"en" | "ja", string>> }> = {
   copyright: {
     names: {
       en: "copyright",
