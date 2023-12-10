@@ -5,7 +5,8 @@
   "scripts": {
     "start": "tsx main.ts",
     "prisma:generate": "prisma generate --schema=./backend/prisma/schema.prisma",
-    "build": "rollup --config rollup.config.js"
+    "build": "rollup --config rollup.config.js",
+    "lint:prettier": "prettier --check ."
   },
   "packageManager": "npm@9.6.7",
   "dependencies": {

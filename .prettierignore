@@ -1,0 +1,8 @@
+# deps
+package-lock.json
+
+# deps
+backend/
+
+# output
+dist/
