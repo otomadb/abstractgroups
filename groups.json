@@ -1,0 +1,72 @@
+{
+  "copyright": {
+    "theme": null,
+    "names": {
+      "en": "copyright",
+      "ja": "作品"
+    }
+  },
+  "music": {
+    "theme": null,
+    "names": {
+      "en": "music",
+      "ja": "曲"
+    }
+  },
+  "character": {
+    "theme": null,
+    "names": {
+      "en": "character",
+      "ja": "キャラクター"
+    }
+  },
+  "event": {
+    "theme": null,
+    "names": {
+      "en": "event",
+      "ja": "イベント"
+    }
+  },
+  "series": {
+    "theme": null,
+    "names": {
+      "en": "series",
+      "ja": "シリーズ"
+    }
+  },
+  "tactics": {
+    "theme": null,
+    "names": {
+      "en": "tactics",
+      "ja": "戦術"
+    }
+  },
+  "phrase": {
+    "theme": null,
+    "names": {
+      "en": "phrase",
+      "ja": "セリフ"
+    }
+  },
+  "style": {
+    "theme": null,
+    "names": {
+      "en": "style",
+      "ja": "作風"
+    }
+  },
+  "class": {
+    "theme": null,
+    "names": {
+      "en": "class",
+      "ja": "作品メタ"
+    }
+  },
+  "realperson": {
+    "theme": null,
+    "names": {
+      "en": "real person",
+      "ja": "実在人物"
+    }
+  }
+}
